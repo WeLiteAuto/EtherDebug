@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5E9954FD-3F55-4B46-B817-742033692647"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EC8DE57-9421-45EA-B507-92661E6F12C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "startTcpServer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69102184-74DA-4502-8272-C62A4DB4D8B5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Handlers/TCPMessageEchoHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "channelRead(context:data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "69102184-74DA-4502-8272-C62A4DB4D8B5 - a1dd1a8dbec7263d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TRIAL.TCPMessageEchoHandler.channelRead(context: NIOCore.ChannelHandlerContext, data: NIOCore.NIOAny) -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Handlers/TCPMessageEchoHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "69102184-74DA-4502-8272-C62A4DB4D8B5 - a1dd1a8dbec7263d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TRIAL.TCPMessageEchoHandler.channelRead(context: NIOCore.ChannelHandlerContext, data: NIOCore.NIOAny) -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Handlers/TCPMessageEchoHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "69102184-74DA-4502-8272-C62A4DB4D8B5 - a1dd1a8dbec7263d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TRIAL.TCPMessageEchoHandler.channelRead(context: NIOCore.ChannelHandlerContext, data: NIOCore.NIOAny) -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Handlers/TCPMessageEchoHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9782E5E-0EFD-4F87-994C-2C0BB5FE5E92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Views/NetworkCofigView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B763019C-D4A8-4F4D-B9E3-5B44E7A89A8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Views/NetworkCofigView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21E4D7E9-E695-40FD-B18E-55A79C80FCA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Views/NetworkDebugView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "21E4D7E9-E695-40FD-B18E-55A79C80FCA5 - 87a2c11197396527"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt;&gt; in TRIAL.NetworkDebugView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/NetworkDebugView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "21E4D7E9-E695-40FD-B18E-55A79C80FCA5 - c4a598fa622c0ac8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt;&gt; in TRIAL.NetworkDebugView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/NetworkDebugView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A9FE410-DB26-488C-8DD0-D432FF6578D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "186"
+            endingLineNumber = "186"
+            landmarkName = "sendTcpMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A9FE410-DB26-488C-8DD0-D432FF6578D2 - 6cb5ba29e5d59112"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendTcpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "172"
+                  endingLineNumber = "172"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "3A9FE410-DB26-488C-8DD0-D432FF6578D2 - de84c6da7f1ac934"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (NIOCore.RepeatedTask) -&gt; () in closure #2 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendTcpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "3A9FE410-DB26-488C-8DD0-D432FF6578D2 - 6cb5ba29e5d59fc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendTcpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "186"
+                  endingLineNumber = "186"
+                  offsetFromSymbolStart = "908">
+               </Location>
+               <Location
+                  uuid = "3A9FE410-DB26-488C-8DD0-D432FF6578D2 - de84c6da7f1ac766"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (NIOCore.RepeatedTask) -&gt; () in closure #2 @Swift.MainActor @Sendable () -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendTcpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E3EB206-107D-4411-A6AF-251A5EB95389"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "sendTcpMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C455F56-F3E7-4700-86EE-71BF788E068D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "sendTcpMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66F0D505-4001-4C46-B517-9A3603D3B993"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "sendTcpMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80A34B52-D07B-48CA-904E-A1715A9880E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Views/SendMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "80A34B52-D07B-48CA-904E-A1715A9880E7 - 1baa9eab9865ef66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "80A34B52-D07B-48CA-904E-A1715A9880E7 - 590b6631204db103"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "80A34B52-D07B-48CA-904E-A1715A9880E7 - ec375cba2fec2425"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A815743-884F-4825-A5C4-D622A8F1F54C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Views/SendMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7A815743-884F-4825-A5C4-D622A8F1F54C - ec375cba2fec2404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "7A815743-884F-4825-A5C4-D622A8F1F54C - 3b770dd4bcefda1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "7A815743-884F-4825-A5C4-D622A8F1F54C - b2f1938257936406"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7A815743-884F-4825-A5C4-D622A8F1F54C - 159170f6a242c407"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async throws -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36FCBE2F-CF34-489B-AE30-49998E6B2355"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Handlers/TCPMessageEchoHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "channelRead(context:data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "894A86EC-613A-48F0-BD32-26E8D40ABF56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "sendTcpMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E563B87-6B45-48D9-BBF1-CC2C1EB241F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "sendTcpMessage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AFE4306-A33E-4A5F-BCFE-6EF59ED6365F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/Views/SendMessageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4AFE4306-A33E-4A5F-BCFE-6EF59ED6365F - bb4643820dae9d43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1504">
+               </Location>
+               <Location
+                  uuid = "4AFE4306-A33E-4A5F-BCFE-6EF59ED6365F - 8f21050e78560887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0)&gt;&gt;, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in TRIAL.SendMessageView.body.getter : some"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/Views/SendMessageView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07C6BED3-9AC0-4017-9C68-C5E355F1A06C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "sendUdpMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07C6BED3-9AC0-4017-9C68-C5E355F1A06C - 5e51b6a5517b9be9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Sendable (NIOCore.RepeatedTask) -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "1004">
+               </Location>
+               <Location
+                  uuid = "07C6BED3-9AC0-4017-9C68-C5E355F1A06C - 5e51b6a5517b9bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Sendable (NIOCore.RepeatedTask) -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "305"
+                  endingLineNumber = "305"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "07C6BED3-9AC0-4017-9C68-C5E355F1A06C - 5e51b6a5517b9be9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 @Sendable (NIOCore.RepeatedTask) -&gt; () in closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "306"
+                  endingLineNumber = "306"
+                  offsetFromSymbolStart = "608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30A063D9-29B2-41FE-BD88-422E5BC81E73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "274"
+            endingLineNumber = "274"
+            landmarkName = "sendUdpMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30A063D9-29B2-41FE-BD88-422E5BC81E73 - e5df78d2faa92c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "1116">
+               </Location>
+               <Location
+                  uuid = "30A063D9-29B2-41FE-BD88-422E5BC81E73 - e5df78d2faa92c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "273"
+                  endingLineNumber = "273"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "30A063D9-29B2-41FE-BD88-422E5BC81E73 - e5df78d2faa92c42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DA9B278-BDCF-4B4B-87AE-71BF174FB4E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TRIAL/Network/ViewModels/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "267"
+            endingLineNumber = "267"
+            landmarkName = "sendUdpMessage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9DA9B278-BDCF-4B4B-87AE-71BF174FB4E3 - e5df78d2faa92d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "9DA9B278-BDCF-4B4B-87AE-71BF174FB4E3 - e5df78d2faa92d5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "9DA9B278-BDCF-4B4B-87AE-71BF174FB4E3 - e5df78d2faa92d7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in TRIAL.NetworkManager.sendUdpMessage() async throws -&gt; ()"
+                  moduleName = "TRIAL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/TRIAL/TRIAL/Network/ViewModels/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "267"
+                  endingLineNumber = "267"
+                  offsetFromSymbolStart = "580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A4F0F99-333D-4BE6-8633-49567D52ACDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EtherDebug/Network/Views/NetworkCofigView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.DebuggerCommand">
+                  <ActionContent>
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "6A4F0F99-333D-4BE6-8633-49567D52ACDB - afe781241805345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in EtherDebug.NetworkCofigView.body.getter : some"
+                  moduleName = "EtherDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/EtherDebug/EtherDebug/Network/Views/NetworkCofigView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "2736">
+               </Location>
+               <Location
+                  uuid = "6A4F0F99-333D-4BE6-8633-49567D52ACDB - 72aeaf20cff0a08b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in EtherDebug.NetworkCofigView.body.getter : some"
+                  moduleName = "EtherDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/EtherDebug/EtherDebug/Network/Views/NetworkCofigView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

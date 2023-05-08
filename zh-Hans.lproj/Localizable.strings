@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  EtherDebug
+
+  Created by Aaron Ge on 2023/5/8.
+  
+*/
+"Fresh" = "刷新";
+"Start" = "启动";
+"End" = "结束";
+"Add" = "添加";
+"Network Config" = "网络配置";
+"Receive Config" = "接收配置";
+"Send Config" = "发送配置";
+"Received messages" = "接收到的信息";
+"Message to send" = "要发送的信息";
+"Hex Format" = "十六进制显示";
+"Time Stamp" = "添加时间戳";
+"Send with Hex" = "十六进制发送";
+"Loop sending" = "循环发送";
+

@@ -3,3 +3,4 @@
 *.pbxproj
 *.pbxproj
 *.xcworkspacedata
+.DS_Store

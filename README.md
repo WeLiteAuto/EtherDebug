@@ -7,7 +7,6 @@ EtherDebug is an iOS application that facilitates communication between devices 
 - Support for both TCP and UDP communication protocols
 - Real-time monitoring of data traffic and network status
 - Seamless switching between communication protocols
-- Compatibility with a wide range of STM32 microcontrollers
 - Built with SwiftUI for a smooth user experience
 
 ## Getting Started

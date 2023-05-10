@@ -770,5 +770,100 @@
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7E57AD2-78AB-47FC-97B7-F9D65249CF2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EtherDebug/Network/Handlers/TCPMessageEchoHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "channelRead(context:data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61E2FB68-5D66-4D1C-BAE3-BD209EE9CE4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EtherDebug/Network/Handlers/TCPMessageEchoHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "channelRead(context:data:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61E2FB68-5D66-4D1C-BAE3-BD209EE9CE4D - 55e430d49197b190"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in EtherDebug.TCPMessageEchoHandler.channelRead(context: NIOCore.ChannelHandlerContext, data: NIOCore.NIOAny) -&gt; ()"
+                  moduleName = "EtherDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/EtherDebug/EtherDebug/Network/Handlers/TCPMessageEchoHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "61E2FB68-5D66-4D1C-BAE3-BD209EE9CE4D - b3e2010da1cb7c17"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EtherDebug.TCPMessageEchoHandler.channelRead(context: NIOCore.ChannelHandlerContext, data: NIOCore.NIOAny) -&gt; ()"
+                  moduleName = "EtherDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/EtherDebug/EtherDebug/Network/Handlers/TCPMessageEchoHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "61E2FB68-5D66-4D1C-BAE3-BD209EE9CE4D - 55e430d49197b671"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in EtherDebug.TCPMessageEchoHandler.channelRead(context: NIOCore.ChannelHandlerContext, data: NIOCore.NIOAny) -&gt; ()"
+                  moduleName = "EtherDebug"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aaronge/Documents/GitHub/EtherDebug/EtherDebug/Network/Handlers/TCPMessageEchoHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C57E2411-CA4A-4457-828F-D56832356A48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EtherDebug/Network/Handlers/TCPMessageEchoHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "TCPMessageEchoHandler"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

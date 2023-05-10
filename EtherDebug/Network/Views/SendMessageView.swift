@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct SendMessageView: View {
-    @EnvironmentObject var manager: NetworkManager
+    @ObservedObject var manager: NetworkManager
     var usedIps: [String]
     
     
@@ -91,7 +91,7 @@ struct SendMessageView: View {
 
 struct SendMessageView_Previews: PreviewProvider {
     static var previews: some View {
-        SendMessageView(usedIps:[])
+        SendMessageView(manager: NetworkManager(), usedIps:[])
     }
 }
 

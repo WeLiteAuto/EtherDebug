@@ -23,7 +23,7 @@ struct CheckboxToggleStyle: ToggleStyle {
 
 
 struct ExtraInfoView: View {
-    @EnvironmentObject var manager: NetworkManager
+    @ObservedObject var manager: NetworkManager
     var body: some View {
         GeometryReader{ geometry in
             VStack (alignment: .leading) {
@@ -53,8 +53,8 @@ struct ExtraInfoView: View {
 
 struct ExtraInfoView_Previews: PreviewProvider {
     static var previews: some View {
-        ExtraInfoView()
-            .environmentObject(NetworkManager())
+        ExtraInfoView(manager: NetworkManager())
+          
             
     }
 }

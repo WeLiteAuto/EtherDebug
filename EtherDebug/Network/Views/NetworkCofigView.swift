@@ -11,7 +11,7 @@ import SwiftUI
 //let freshString = NSLocalizedString("Fresh", comment: "Fresh messages")
 
 struct NetworkCofigView: View {
-    @EnvironmentObject var manager: NetworkManager
+    @ObservedObject var manager: NetworkManager
     @Environment(\.managedObjectContext) var viewContext
     @Environment(\.horizontalSizeClass) private var sizeClass
     
@@ -81,8 +81,8 @@ struct NetworkCofigView: View {
 
 struct NetworkCofigView_Previews: PreviewProvider {
     static var previews: some View {
-        NetworkCofigView()
-            .environmentObject(NetworkManager())
+        NetworkCofigView(manager: NetworkManager())
+           
     }
 }
 

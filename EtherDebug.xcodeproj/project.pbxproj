@@ -10,6 +10,9 @@
 		9E12A8752A08C9AE007A00A0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E12A8792A08C9AE007A00A0 /* Localizable.strings */; };
 		9E12A8762A08C9AE007A00A0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E12A8792A08C9AE007A00A0 /* Localizable.strings */; };
 		9E12A8772A08C9AE007A00A0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9E12A8792A08C9AE007A00A0 /* Localizable.strings */; };
+		9E2A687E2A0B6571002837A3 /* TCPADCReceiveHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2A687D2A0B6571002837A3 /* TCPADCReceiveHandler.swift */; };
+		9E2A687F2A0B6571002837A3 /* TCPADCReceiveHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2A687D2A0B6571002837A3 /* TCPADCReceiveHandler.swift */; };
+		9E2A68802A0B6571002837A3 /* TCPADCReceiveHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E2A687D2A0B6571002837A3 /* TCPADCReceiveHandler.swift */; };
 		9E692F832A00FEE9000D31C7 /* ExtraInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E692F822A00FEE9000D31C7 /* ExtraInfoView.swift */; };
 		9E692F852A033FF0000D31C7 /* SendMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E692F842A033FF0000D31C7 /* SendMessageView.swift */; };
 		9E692F862A033FF0000D31C7 /* SendMessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E692F842A033FF0000D31C7 /* SendMessageView.swift */; };
@@ -89,6 +92,7 @@
 		9E12A8522A0899DE007A00A0 /* EtherDebug.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = EtherDebug.entitlements; sourceTree = "<group>"; };
 		9E12A8782A08C9AE007A00A0 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		9E12A87A2A08C9B6007A00A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		9E2A687D2A0B6571002837A3 /* TCPADCReceiveHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCPADCReceiveHandler.swift; sourceTree = "<group>"; };
 		9E692F822A00FEE9000D31C7 /* ExtraInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtraInfoView.swift; sourceTree = "<group>"; };
 		9E692F842A033FF0000D31C7 /* SendMessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendMessageView.swift; sourceTree = "<group>"; };
 		9E692F882A0341FC000D31C7 /* TextFieldWithSuffix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldWithSuffix.swift; sourceTree = "<group>"; };
@@ -247,6 +251,7 @@
 				9EFAFC4529FB958400214E79 /* TCPMessageEchoHandler.swift */,
 				9EFAFC4629FB958400214E79 /* TCPStatusHandler.swift */,
 				9ED2DDC62A0658C200652FE7 /* UDPMessageChannelHandler.swift */,
+				9E2A687D2A0B6571002837A3 /* TCPADCReceiveHandler.swift */,
 			);
 			path = Handlers;
 			sourceTree = "<group>";
@@ -432,6 +437,7 @@
 			files = (
 				9EFAFC4A29FB958400214E79 /* TCPStatusHandler.swift in Sources */,
 				9E692F832A00FEE9000D31C7 /* ExtraInfoView.swift in Sources */,
+				9E2A687E2A0B6571002837A3 /* TCPADCReceiveHandler.swift in Sources */,
 				9ED2DDC72A0658C200652FE7 /* UDPMessageChannelHandler.swift in Sources */,
 				9ED2DDB32A04E70D00652FE7 /* Manager.xcdatamodeld in Sources */,
 				9EFAFBF829FB945300214E79 /* EtherDebugApp.swift in Sources */,
@@ -460,6 +466,7 @@
 				9EFAFC5529FB9B3B00214E79 /* NetworkError.swift in Sources */,
 				9EFAFC4B29FB958400214E79 /* TCPStatusHandler.swift in Sources */,
 				9EFAFC5E29FBA4DB00214E79 /* NetworkCofigView.swift in Sources */,
+				9E2A687F2A0B6571002837A3 /* TCPADCReceiveHandler.swift in Sources */,
 				9ED2DDC82A0658C200652FE7 /* UDPMessageChannelHandler.swift in Sources */,
 				9EFAFC4829FB958400214E79 /* TCPMessageEchoHandler.swift in Sources */,
 				9E692F862A033FF0000D31C7 /* SendMessageView.swift in Sources */,
@@ -480,6 +487,7 @@
 				9EFAFC4C29FB958400214E79 /* TCPStatusHandler.swift in Sources */,
 				9EFAFC5F29FBA4DB00214E79 /* NetworkCofigView.swift in Sources */,
 				9ED2DDB52A04E70D00652FE7 /* Manager.xcdatamodeld in Sources */,
+				9E2A68802A0B6571002837A3 /* TCPADCReceiveHandler.swift in Sources */,
 				9EFAFC1929FB945400214E79 /* EtherDebugUITests.swift in Sources */,
 				9EFAFC1B29FB945400214E79 /* EtherDebugUITestsLaunchTests.swift in Sources */,
 				9EFAFC5B29FBA18100214E79 /* NetworkDebugView.swift in Sources */,

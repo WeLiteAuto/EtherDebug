@@ -30,8 +30,8 @@ struct NetworkDebugView: View {
                 
                 Section("Network Config"){
                     VStack {
-                        NetworkCofigView()
-                            .environmentObject(manager)
+                        NetworkCofigView(manager: manager)
+                           
                         
                         HStack(alignment: .center) {
                             Button(action: {
@@ -125,8 +125,9 @@ struct NetworkDebugView: View {
                 Spacer()
                 
                 Section("Receive Config") {
-                    ExtraInfoView()
-                        .environmentObject(manager)
+                    ExtraInfoView(manager: manager)
+//                  
+                        
                 }
                 .padding()
                 //                        .border(.brown)
@@ -138,7 +139,7 @@ struct NetworkDebugView: View {
                 
                 
                 Section("Send Config"){
-                    SendMessageView(usedIps: usedIps.compactMap{$0.address})
+                    SendMessageView(manager: manager, usedIps: usedIps.compactMap{$0.address})
                         .environmentObject(manager)
                         .environment(\.managedObjectContext, viewContext)
                         .task {

@@ -80,7 +80,7 @@ class NetworkManager: ObservableObject {
                 .serverChannelOption(ChannelOptions.backlog, value: 256)
                 .serverChannelOption(ChannelOptions.socketOption(.so_reuseaddr), value: 1)
                 .childChannelInitializer { channel in
-                    channel.pipeline.addHandlers([TCPMessageEchoHandler(manager: self), TCPStatusHandler()])
+                    channel.pipeline.addHandlers([TCPADCReceiveHandler(manager: self), TCPStatusHandler()])
                 }
             do {
                 let channel = try bootstrap.bind(to: localhost).wait()
@@ -93,12 +93,17 @@ class NetworkManager: ObservableObject {
                 
                 //        }
             } catch {
+                print("Server started and listening failed \(error.localizedDescription)")
                 DispatchQueue.main.async {
                     self.isServerConnected = false
                 }
                 
-                group.shutdownGracefully { error in
-                    print(error!.localizedDescription)
+                group.shutdownGracefully {
+                    if let er = $0
+                    {
+                        print("Server started and listening failed \(er.localizedDescription)")
+                        
+                    }
                 }
             }
             
